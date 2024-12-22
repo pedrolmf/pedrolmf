@@ -1,16 +1,9 @@
 print('
-- 👋 Greetings, I'm Pedro Mellucci, a vascular surgeon and Doppler sonographer from Brazil currently working on my Ph.D. thesis.
+- 👋 Greetings, I'm Pedro Mellucci, a vascular surgeon from Brazil currently working on my Ph.D. thesis.
+- 👀 I work with computer vision (CV) and artificial intelligence (AI) in medicine. Currently, I am working in iOS development for medical apps.
+- 📫 For scientific or professional reasons, reach me at p.mellucci@unesp.br!
 
-- 👀 I'm interested in working with computer vision (CV) and artificial intelligence (AI) for segmentation of carotid arteries and atherosclerotic plaques.
-
-- 🌱 I’m currently learning scikit-image and U-Net.
-- 
-- 💞️ I’m looking to collaborate on any research that involves CV or AI in medicine.
-- 
-- 📫 How to reach me: for scientific or professional reasons, reach me at p.mellucci@unesp.br!
-
-')
-//july 2023
+// dec, 2024
 
 <!---
 pedrolmf/pedrolmf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
