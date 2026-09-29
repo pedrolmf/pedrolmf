@@ -1,6 +1,6 @@
-- Greetings, I'm Pedro Mellucci, a vascular surgeon from Brazil currently working on my Ph.D. thesis.
+- Greetings, I'm Pedro Mellucci, a Ph.D. vascular surgeon from Brazil.
 - I work with computer vision (CV) and artificial intelligence (AI) in medicine.
-- Currently, I am working in iOS development for medical apps.
+- Currently, I am working in the development of medical applications, specially DICOM, vascular analysis and endovascular planning.
 - For scientific or professional reasons, reach me at p.mellucci@unesp.br
 
 <!---
